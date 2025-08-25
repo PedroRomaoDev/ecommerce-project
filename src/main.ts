@@ -28,3 +28,5 @@ console.log(JSON.stringify(pedidosDaAna, null, 2));
 console.log("\n📊 4. Criando relatório geral de vendas:");
 const relatorioFinal = criarRelatorioDeVendas(pedidos);
 console.log("Relatório Final de Vendas:", relatorioFinal);
+
+console.log("TAMO JUNTO LUQUINHAS");
